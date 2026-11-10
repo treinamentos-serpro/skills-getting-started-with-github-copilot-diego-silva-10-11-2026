@@ -4,11 +4,11 @@ Bem-vindo ao seu exercício **"Primeiros Passos com GitHub Copilot"**! :robot:
 
 Neste exercício, você usará diferentes recursos do GitHub Copilot para trabalhar em um site que permite que estudantes da Mergington High School se inscrevam em atividades extracurriculares. 🎻 ⚽️ ♟️
 
-<img width="600" alt="screenshot of Mergington High School WebApp" src="../images/mergington-high-school-webapp.png" />
+<img width="600" alt="screenshot of Mergington High School WebApp" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-diego-silva-10-11-2026/blob/main/.github/images/mergington-high-school-webapp.png?raw=true" />
 
 ### 📖 Teoria: Conhecendo o GitHub Copilot
 
-<img width="150" align="right" alt="copilot logo" src="../images/copilot-logo.png" />
+<img width="150" align="right" alt="copilot logo" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-diego-silva-10-11-2026/blob/main/.github/images/copilot-logo.png?raw=true" />
 
 O GitHub Copilot é um assistente de codificação com IA que ajuda você a escrever código mais rápido e com menos esforço, permitindo que você concentre mais energia na resolução de problemas e colaboração.
 
@@ -48,9 +48,9 @@ Vamos iniciar nosso ambiente de desenvolvimento, usar o Copilot para aprender um
 
 1. Na barra lateral esquerda, clique na aba de extensões e verifique se as extensões `GitHub Copilot Chat` e `Python` estão instaladas e habilitadas.
 
-   <img width="350" alt="Extensão GitHub Copilot Chat para VS Code" src="../images/copilot-extension-vscode.png" />
+   <img width="350" alt="Extensão GitHub Copilot Chat para VS Code" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-diego-silva-10-11-2026/blob/main/.github/images/copilot-extension-vscode.png?raw=true" />
 
-   <img width="350" alt="Extensão Python para VS Code" src="../images/python-extension-vscode.png" />
+   <img width="350" alt="Extensão Python para VS Code" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-diego-silva-10-11-2026/blob/main/.github/images/python-extension-vscode.png?raw=true" />
 
    <details>
    <summary>🔎 A extensão GitHub Copilot Chat não aparece? ❓</summary>
@@ -59,7 +59,7 @@ Vamos iniciar nosso ambiente de desenvolvimento, usar o Copilot para aprender um
 
    | Ícone na barra de status | É necessário entrar | Copilot ativo |
    | --- | --- | --- |
-   | <img width="300" alt="Menu do Copilot com a opção de usar recursos de IA" src="../images/copilot-sign-in-button.png" /> | <img width="300" alt="Botão para entrar no Copilot Chat" src="../images/copilot-sign-in-button-clicked.png" /> | <img width="300" alt="Menu do Copilot mostrando as sugestões em linha ativadas" src="../images/copilot-signed-in.png" /> |
+   | <img width="300" alt="Menu do Copilot com a opção de usar recursos de IA" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-diego-silva-10-11-2026/blob/main/.github/images/copilot-sign-in-button.png?raw=true" /> | <img width="300" alt="Botão para entrar no Copilot Chat" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-diego-silva-10-11-2026/blob/main/.github/images/copilot-sign-in-button-clicked.png?raw=true" /> | <img width="300" alt="Menu do Copilot mostrando as sugestões em linha ativadas" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-diego-silva-10-11-2026/blob/main/.github/images/copilot-signed-in.png?raw=true" /> |
 
    Você já pode continuar, mesmo que a extensão ainda não esteja visível na aba de extensões.
 
@@ -67,13 +67,13 @@ Vamos iniciar nosso ambiente de desenvolvimento, usar o Copilot para aprender um
 
 1. No topo do VS Code, localize e clique no ícone **Toggle Chat** para abrir um painel lateral do Copilot Chat.
 
-   <img width="150" alt="image" src="../images/toggle-chat-icon.png" />
+   <img width="150" alt="image" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-diego-silva-10-11-2026/blob/main/.github/images/toggle-chat-icon.png?raw=true" />
 
    > 🪧 **Nota:** Se esta é sua primeira vez usando o GitHub Copilot, talvez seja necessário aceitar os termos de uso para continuar.
 
 1. Certifique-se de que está no **Ask Mode** para nossa primeira interação
 
-   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="../images/ask-mode-selection.png" />
+   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-diego-silva-10-11-2026/blob/main/.github/images/ask-mode-selection.png?raw=true" />
 
 1. Digite o prompt abaixo para pedir ao Copilot que apresente o projeto para você.
 
@@ -88,13 +88,13 @@ Vamos iniciar nosso ambiente de desenvolvimento, usar o Copilot para aprender um
 
 1. Agora que sabemos um pouco mais sobre o projeto, vamos realmente tentar executá-lo! Na barra lateral esquerda, selecione a aba `Run and Debug` e pressione o ícone **Start Debugging**.
 
-   <img width="300" alt="image" src="../images/run-and-debug-tab.png" />
+   <img width="300" alt="image" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-diego-silva-10-11-2026/blob/main/.github/images/run-and-debug-tab.png?raw=true" />
 
 1. Queremos ver nossa página web rodando em um navegador, então vamos encontrar a URL e a porta. Se não estiver visível, expanda o painel inferior e selecione a aba **Ports**.
 
 1. Na lista, encontre a porta `8000` e o link relacionado. Passe o mouse sobre o link e selecione o ícone **Open in browser**.
 
-   ![image](../images/open-in-browser-icon.png)
+   ![image](https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-diego-silva-10-11-2026/blob/main/.github/images/open-in-browser-icon.png?raw=true)
 
 ### :keyboard: Atividade: Use o Copilot para ajudar a lembrar um comando de terminal 🙋
 
