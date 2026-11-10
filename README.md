@@ -12,5 +12,13 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Participantes das atividades
 
+Cada atividade mostra seus participantes. Clique no icone de lixeira ao lado de
+um e-mail para cancelar a inscricao; a lista e as vagas disponiveis sao atualizadas
+automaticamente. Os dados ficam em memoria e sao reiniciados junto com o servidor.
+
+Para executar os testes da API: `python -m pytest`.
+Para executar os testes da interface com Node.js: `node --test tests/frontend.test.js`.
+
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
